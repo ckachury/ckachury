@@ -74,6 +74,5 @@ Diseños de facilitación para workshops de assessment, levantamiento de riesgos
 
 [![Sitio web](https://img.shields.io/badge/Sitio-ckachury.github.io-0f4c4a?style=flat-square)](https://ckachury.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla%20Achury-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-achury-617b7536/)
-[![Email](https://img.shields.io/badge/Email-ckachury%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:ckachury@gmail.com)
 
 Santiago, Chile (GMT-3) · Español e inglés · Disponible para trabajo remoto
